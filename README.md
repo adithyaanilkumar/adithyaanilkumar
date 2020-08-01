@@ -24,4 +24,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/adithyaanilkumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adithyaanilkumar" height="20" width="20" /></a>
+<a href="https://twitter.com/Adithya5026?s=09" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="adithyaanilkumar" height="20" width="20" /></a>
+  <a href="https://instagram.com/techbitz_?igshid=1vo38tb9s0lkg" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="adithyaanilkumar" height="20" width="20" /></a>
+  <a href="mailto:adithyaanilkumar1@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="adithyaanilkumar" height="20" width="20" /></a>
 </p>
