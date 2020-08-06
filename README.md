@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN stack, Django, DevOps, IoT,Arduino, Flutter**
 
-- 📫 How to reach me **adithyaanilkumar1@gmail.com**
+- 📫 How to reach me  [🌐](https://adithyaanilkumar.github.io)
 
 - ⚡ Fun fact about me, i am a **Chai Lover xD**
 
