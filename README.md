@@ -22,7 +22,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adithyaanilkumar&show_icons=true" alt="adithyaanilkumar" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyaanilkumar&show_icons=true&layout=compact"" alt="adithyaanilkumar" /> </p>
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyaanilkumar&show_icons=true&layout=compact"" alt="adithyaanilkumar" /> </p> -->
 
 <p align="center">
 <a href="https://linkedin.com/in/adithyaanilkumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adithyaanilkumar" height="20" width="20" /></a>
