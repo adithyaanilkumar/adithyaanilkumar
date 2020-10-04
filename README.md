@@ -1,4 +1,4 @@
-<h1 align="center"> Hi There 👋, I'm Adithya Anilkumar</h1>
+<h1 align="center"> Hi There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Adithya Anilkumar</h1>
 <h3 align="center">A passionate Fullstack developer and budding Data Scientist</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyaanilkumar" alt="adithyaanilkumar" /> </p>
 
