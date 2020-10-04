@@ -32,3 +32,5 @@
 </p>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
+ <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
