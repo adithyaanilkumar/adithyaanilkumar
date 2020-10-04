@@ -30,3 +30,5 @@
   <a href="https://instagram.com/techbitz_?igshid=1vo38tb9s0lkg" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="adithyaanilkumar" height="20" width="20" /></a>
   <a href="mailto:adithyaanilkumar1@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="adithyaanilkumar" height="20" width="20" /></a>
 </p>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
