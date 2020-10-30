@@ -19,7 +19,17 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 
 <i class="devicon-react-original colored"></i>
-
+<p align="center">
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="adithyaanilkumar" height="20" width="20" /> </a>
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" /> </a>
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" /> </a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" /></a>
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png" /></a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" /></a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" /></a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" /></a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" /></a>
+</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adithyaanilkumar&show_icons=true" alt="adithyaanilkumar" /> </p>
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyaanilkumar&show_icons=true&layout=compact"" alt="adithyaanilkumar" /> </p> -->
