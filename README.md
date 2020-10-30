@@ -30,6 +30,9 @@
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png" alt="adithyaanilkumar" height="35" width="35" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" alt="adithyaanilkumar" height="35" width="35" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" alt="adithyaanilkumar" height="35" width="35" /></a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/c-58-1175247.png" alt="adithyaanilkumar" height="35" width="35" /></a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png" alt="adithyaanilkumar" height="35" width="35" /></a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/c-36-555159.png" alt="adithyaanilkumar" height="35" width="35" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/google-cloud-2038785-1721675.png" alt="adithyaanilkumar" height="35" width="35" /></a>
 </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adithyaanilkumar&show_icons=true" alt="adithyaanilkumar" /> </p>
