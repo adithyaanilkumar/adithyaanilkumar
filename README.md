@@ -20,7 +20,7 @@
 
 <i class="devicon-react-original colored"></i>
 <p align="center">
-<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="adithyaanilkumar" height="30" width="30" /> </a>
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="adithyaanilkumar" height="40" width="40" /> </a>
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" /> </a>
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" /> </a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" /></a>
