@@ -2,11 +2,9 @@
 <h3 align="center">A passionate Fullstack developer and budding Data Scientist</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyaanilkumar" alt="adithyaanilkumar" /> </p>
 
-- 🔭 I’m currently working on Project Bump
+- 🔭 I’m currently working on Project DevQuest
 
 - 👯 I’m looking to collaborate on [SafeNet](https://github.com/adithyaanilkumar/SafeNet)
-
-- 🤔 I’m looking for help with [ZeW-IT](https://github.com/adithyaanilkumar/ZeW-IT)
 
 - 👨‍💻 All of my projects are available [Down Below 👇](https://github.com/adithyaanilkumar?tab=repositories)
 
