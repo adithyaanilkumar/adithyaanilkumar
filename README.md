@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on Project DevQuest
 
-- 👯 I’m looking to collaborate on [SafeNet](https://github.com/adithyaanilkumar/SafeNet)
-
 - 👨‍💻 All of my projects are available [Down Below 👇](https://github.com/adithyaanilkumar?tab=repositories)
 
 - 💬 Ask me about **MERN stack, Django, DevOps, IoT,Arduino, Flutter**
