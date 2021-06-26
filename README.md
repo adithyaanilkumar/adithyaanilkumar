@@ -1,5 +1,5 @@
 <h1 align="center"> Hi There <img src="https://github.com/adithyaanilkumar/adithyaanilkumar/blob/master/Hi.gif" width="29px">, I'm Adithya Anilkumar</h1>
-<h3 align="center">A passionate Fullstack developer and budding Data Scientist</h3>
+<h3 align="center">A passionate Fullstack developer who loves to build products!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyaanilkumar" alt="adithyaanilkumar" /> </p>
 
 - 🔭 I’m currently working on Project DevQuest
