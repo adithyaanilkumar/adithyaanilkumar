@@ -1,12 +1,12 @@
 <h1 align="center"> Hi There <img src="https://github.com/adithyaanilkumar/adithyaanilkumar/blob/master/Hi.gif" width="29px">, I'm Adithya Anilkumar</h1>
-<h3 align="center">A passionate Fullstack developer who loves to build products!</h3>
+<h3 align="center">Inclusive leader and systems architect who transforms complex challenges into elegant, scalable solutions across Web, Mobile, and IoT ecosystems using AI tooling. I don’t just write code, I craft digital experiences that drive innovation and deliver measurable business outcomes.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyaanilkumar" alt="adithyaanilkumar" /> </p>
 
-- 🔭 I’m currently working on [Devquest](https://devquest.in/)
+- 🔭 I’m currently working on [Datawyse](https://datawyse.in/)
 
 - 👨‍💻 All of my projects are available [Down Below 👇](https://github.com/adithyaanilkumar?tab=repositories)
 
-- 💬 Ask me about **MERN stack, Django, DevOps, IoT,Arduino, Flutter**
+- 💬 Ask me about **AI Native stacks, MERN stack, Django/FAst API, DevOps, IoT, Arduino, Flutter Dev**
 
 - 📫 How to reach me  [🌐](https://adithyaanilkumar.github.io)
 
